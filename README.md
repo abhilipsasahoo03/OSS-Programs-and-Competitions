@@ -1,5 +1,6 @@
 # OSS-Programs-and-Competitions
 Here is a list of all Open Source Programs and Competitions.
+Curated by Abhilipsa Sahoo
 
 | Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     | Restrictions 
  |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------| 
