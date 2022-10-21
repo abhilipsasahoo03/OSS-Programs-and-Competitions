@@ -57,7 +57,7 @@ Here is a list of all Open Source Programs and Competitions.
  | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 | 
  | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           | 
  | [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           | 
- | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) | 
+ | [Social Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) | 
  | [AnitaB.Org Open Source Hack](https://anitab-org.github.io/events/open-source-hack/)                                  | Certificate, LinkedIn badge | [timeline](https://anitab-org.github.io/events/open-source-hack/)     |
   
  * *Indian Students Only </br>
